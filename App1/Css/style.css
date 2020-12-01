@@ -1,0 +1,40 @@
+body
+{
+    padding-top: 150px;
+    text-align: center;
+}
+h1
+{
+    color: brown;
+}
+
+button
+{
+
+    color: white;
+    border: none;
+    background-color: rgb(7, 7, 182);
+    margin-left: 15px;
+    cursor: pointer;
+    width: 70px;
+    border-radius: 15px;
+}
+
+button:focus
+{
+    border: 0;
+    outline: 0;
+}
+
+.text-Info
+{
+    color: chocolate;
+}
+.Result
+{
+    color: darkblue;
+}
+.wrong
+{
+    color: crimson;
+}
